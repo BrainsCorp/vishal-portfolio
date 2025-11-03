@@ -1,0 +1,183 @@
+{
+  "basics": {
+    "name": "Vishal",
+    "label": "Data Analytics & Machine Learning Practitioner",
+    "image": "profile_pic.png",
+    "email": "its.vishal.ca@gmail.com",
+    "url": "https://vishalsaini.github.io",
+    "summary": "Aspiring Data Analytics and Machine Learning Practitioner with a strong passion for continuous learning and innovation[cite: 4]. Skilled in Python, Data Analysis, and machine learning techniques[cite: 5]. Currently enhancing knowledge of RAG and eager to contribute to innovative use cases in NLP and GenAI applications[cite: 8].",
+    "location": {
+      "address": "Panorama Court",
+      "city": "Etobicoke",
+      "countryCode": "CA",
+      "region": "ON"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "linkedin-vishal",
+        "url": "https://linkedin.com/in/vishal-saini-nxt"
+      },
+      {
+        "network": "GitHub",
+        "username": "vishalsaini",
+        "url": "www.github.com/Brainscorp"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "BlackCoffer, New Delhi, INDIA",
+      "position": "Data Analyst Intern",
+      "startDate": "2023-09-01",
+      "endDate": "2024-01-01",
+      "summary": "Extracted and pre-processed unstructured text data from the company's website using Python libraries (BeautifulSoup, Pandas, Scikit-learn)[cite: 20]. Performed in-depth NLP analysis, including sentiment analysis, readability analysis, and keyword identification[cite: 21].",
+      "highlights": [
+        "Built a Machine learning model using Latent Dirichlet Allocation (LDA) to identify key themes, improving the content organization by 15%[cite: 22].",
+        "Provided actionable insights that led to more targeted and effective communication strategies[cite: 23]."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Humber College North Campus, ON, CA",
+      "location": "ON, CA",
+      "area": "Artificial Intelligence and Machine Learning",
+      "studyType": "PG Certificate",
+      "endDate": "2024-12-01",
+      "summary": "Learned to make informed decisions based on Data Analysis and provide data driven solutions to support business strategy[cite: 26]. Experience in building Machine learning models including Deep learning models[cite: 27].",
+      "courses": [
+        "Hands-On Experience with AWS Cloud Services (EC2, Lambda Functions, SageMaker, GuardRail, CloudWatch) [cite: 28]",
+        "Projects: Uber Taxi Analysis, Twitter Post Sentimental Analysis [cite: 26]",
+        "Projects: Dimensionality Reduction HRX, Query_Classification_RAG [cite: 27]",
+        "Projects: AWS Comprehend Project [cite: 28]"
+      ]
+    },
+    {
+      "institution": "University of Delhi, New Delhi, INDIA",
+      "location": "New Delhi, INDIA",
+      "area": "Computer Science",
+      "studyType": "Bachelors of Science (Honors)",
+      "endDate": "2023-07-01",
+      "summary": "Core studies in Software Engineering, Data Structure and Algorithms, and Traditional Machine Learning[cite: 30]. Member of Computer Society of College (ACE), Organizing Seasonal and Annual Tech Events[cite: 31].",
+      "courses": [
+        "Programming Languages: Python, R, SQL, JavaScript, C++ [cite: 30]",
+        "Mathematics: Linear Algebra, Calculus and Probability and Statistics [cite: 30]"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Generative AI for LLM",
+      "issuer": "Coursera",
+      "icon": "fa-solid fa-graduation-cap"
+    },
+    {
+      "name": "Advance Python and SQL for Data Science",
+      "issuer": "Scaler Academy",
+      "icon": "fa-solid fa-code"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python [cite: 34]",
+        "R [cite: 34]",
+        "SQL [cite: 34]",
+        "JavaScript [cite: 34]",
+        "C++ [cite: 34]"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "icon": "fa-solid fa-chart-bar",
+      "keywords": [
+        "Scikit Learn [cite: 36]",
+        "Matplotlib [cite: 36]",
+        "Seaborn [cite: 36]",
+        "mlxtend [cite: 36]",
+        "stats [cite: 36]",
+        "Kibana [cite: 36]",
+        "ElasticSearch [cite: 36]"
+      ]
+    },
+    {
+      "name": "Deep Learning & LLMs",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "PyTorch [cite: 40]",
+        "TensorFlow [cite: 40]",
+        "Langchain [cite: 41]",
+        "HuggingFace [cite: 41]"
+      ]
+    },
+    {
+      "name": "Cloud & Big Data",
+      "icon": "fa-solid fa-cloud",
+      "keywords": [
+        "AWS Sagemaker [cite: 42]",
+        "Big Query GCP [cite: 42]",
+        "PySpark [cite: 37]"
+      ]
+    },
+    {
+      "name": "NLP & BI",
+      "icon": "fa-solid fa-tags",
+      "keywords": [
+        "nltk [cite: 39]",
+        "spaCy [cite: 39]",
+        "PowerBI [cite: 38]"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Full Professional Proficiency",
+      "certificates": [
+        {
+          "name": "IELTS Academic",
+          "issuer": "British Council",
+          "date": "2025-09-01",
+          "url": "https://ielts.britishcouncil.org/"
+        }
+      ]
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Soft Skills",
+      "icon": "fa-solid fa-people-group",
+      "keywords": [
+        "Agile Framework [cite: 44]",
+        "Scrum Methodology [cite: 45]",
+        "Analytical Skills [cite: 46]",
+        "Presentation Skills [cite: 47]",
+        "Interpersonal Skills [cite: 48]"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "Humber College - Information Technology Service (ITS)",
+      "position": "Capstone Project — Curriculum Bot (RAG-LLM)",
+      "startDate": "2024-09-01",
+      "endDate": "2024-12-01",
+      "summary": "Led a five-member team to develop a Retrieval-Augmented Generation (RAG) based chatbot to automate curriculum design research[cite: 12]. Enhanced the retrieval system's effectiveness using multi-stage re-ranking of retrieved content representation (DLM, TDILM, monoT5)[cite: 14].",
+      "highlights": [
+        "Chatbot reduced faculty research and compile time for curriculum design from average 1 hours to 2 minutes with content accuracy of 95%[cite: 16].",
+        "Utilized Agile methodologies for weekly client meetings, requirements gathering, and feature demonstration[cite: 15].",
+        "Tools: Langchain, LlamaIndex, ChromaDB, OpenAI GPT-4, Streamlit, Git and Github, Python, ClickUp[cite: 18]."
+      ]
+    }
+  ]
+}
