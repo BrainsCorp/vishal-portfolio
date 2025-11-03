@@ -1,0 +1,33 @@
+name: Build and Deploy Jekyll Site
+
+on:
+  push:
+    branches:
+      - myfolio
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repo
+      - name: Checkout myfolio branch
+        uses: actions/checkout@v4
+        with:
+          ref: myfolio
+
+      # Set up Docker
+      - name: Build site using Docker
+        run: |
+          docker run --rm \
+            -v ${{ github.workspace }}:/srv/jekyll \
+            jekyll/jekyll \
+            jekyll build --config _config.yml, _config_dev.yml
+
+      # Deploy to gh-pages
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: gh-pages
