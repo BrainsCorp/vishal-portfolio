@@ -2,33 +2,47 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Data Analytics & Machine Learning Practitioner
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.png # Changed to color pic based on resume img paths
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>Etobicoke, ON</p>
+  #   <p>its.vishal.ca@gmail.com</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
+selected_papers: false # Set to false since you removed the publications section
+social: true # Keep true to show LinkedIn and other social links
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey, I'm **Vishal**! 👋 I'm an aspiring **Data Analytics and Machine Learning Practitioner** with a drive for continuous learning and innovation. I hold a PG Certificate in AI and ML from Humber College  and a Bachelor's in Computer Science from the University of Delhi.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### My Professional Focus
+
+My core expertise lies in harnessing Python, Deep Learning (PyTorch, TensorFlow), and LLM Frameworks (Langchain, HuggingFace) to deliver data-driven solutions.
+
+My most impactful work involved leading the development of a **Retrieval-Augmented Generation (RAG) based chatbot** for a Capstone Project at Humber College. This solution successfully reduced the time faculty spent on curriculum research from an average of one hour to just **two minutes**. I focused on enhancing the retrieval system's effectiveness using multi-stage re-ranking techniques to ensure high performance and 95% content accuracy.
+
+Before this, I worked as a Data Analyst Intern where I performed in-depth **NLP analysis** and built a Machine Learning model using **Latent Dirichlet Allocation (LDA)** to improve content organization by 15%. I am proficient in using cloud platforms like **AWS SageMaker** and **GCP Big Query** to build and deploy solutions.
+
+
+### Beyond the `<Code>`
+
+When I'm not deep-diving into data or optimizing a model, I balance precision with passion by engaging in a few key creative hobbies:
+
+* **Dancing:** A great way to clear the mind and stay energetic.
+* **Music:** I enjoy listening to music and curating playlists.
+* **Sketching Life:** I use sketching to observe the world closely and keep my creative algorithms flowing.
+
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/vishal-saini-nxt) to discuss innovative use cases in NLP, GenAI applications, or just chat about the future of machine learning!

@@ -207,6 +207,15 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Add glow effect to profile photo
+.profile-photo-glow {
+  position: relative;
+  border-radius: 50%;
+  box-shadow: 0 0 50rem var(--global-theme-color); /* Use your dominant color here */
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+
 .profile.float-right {
   margin-left: 1rem;
 }

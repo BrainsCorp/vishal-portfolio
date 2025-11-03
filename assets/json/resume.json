@@ -1,200 +1,183 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Vishal",
+    "label": "Data Analytics & Machine Learning Practitioner",
+    "image": "profile_pic.png",
+    "email": "its.vishal.ca@gmail.com",
+    "url": "https://vishalsaini.github.io",
+    "summary": "Aspiring Data Analytics and Machine Learning Practitioner with a strong passion for continuous learning and innovation[cite: 4]. Skilled in Python, Data Analysis, and machine learning techniques[cite: 5]. Currently enhancing knowledge of RAG and eager to contribute to innovative use cases in NLP and GenAI applications[cite: 8].",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Panorama Court",
+      "city": "Etobicoke",
+      "countryCode": "CA",
+      "region": "ON"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "linkedin-vishal",
+        "url": "https://linkedin.com/in/vishal-saini-nxt"
+      },
+      {
+        "network": "GitHub",
+        "username": "vishalsaini",
+        "url": "www.github.com/Brainscorp"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "BlackCoffer, New Delhi, INDIA",
+      "position": "Data Analyst Intern",
+      "startDate": "2023-09-01",
+      "endDate": "2024-01-01",
+      "summary": "Extracted and pre-processed unstructured text data from the company's website using Python libraries (BeautifulSoup, Pandas, Scikit-learn)[cite: 20]. Performed in-depth NLP analysis, including sentiment analysis, readability analysis, and keyword identification[cite: 21].",
+      "highlights": [
+        "Built a Machine learning model using Latent Dirichlet Allocation (LDA) to identify key themes, improving the content organization by 15%[cite: 22].",
+        "Provided actionable insights that led to more targeted and effective communication strategies[cite: 23]."
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
+      "institution": "Humber College North Campus, ON, CA",
+      "location": "ON, CA",
+      "area": "Artificial Intelligence and Machine Learning",
+      "studyType": "PG Certificate",
+      "endDate": "2024-12-01",
+      "summary": "Learned to make informed decisions based on Data Analysis and provide data driven solutions to support business strategy[cite: 26]. Experience in building Machine learning models including Deep learning models[cite: 27].",
+      "courses": [
+        "Hands-On Experience with AWS Cloud Services (EC2, Lambda Functions, SageMaker, GuardRail, CloudWatch) [cite: 28]",
+        "Projects: Uber Taxi Analysis, Twitter Post Sentimental Analysis [cite: 26]",
+        "Projects: Dimensionality Reduction HRX, Query_Classification_RAG [cite: 27]",
+        "Projects: AWS Comprehend Project [cite: 28]"
+      ]
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "University of Delhi, New Delhi, INDIA",
+      "location": "New Delhi, INDIA",
+      "area": "Computer Science",
+      "studyType": "Bachelors of Science (Honors)",
+      "endDate": "2023-07-01",
+      "summary": "Core studies in Software Engineering, Data Structure and Algorithms, and Traditional Machine Learning[cite: 30]. Member of Computer Society of College (ACE), Organizing Seasonal and Annual Tech Events[cite: 31].",
+      "courses": [
+        "Programming Languages: Python, R, SQL, JavaScript, C++ [cite: 30]",
+        "Mathematics: Linear Algebra, Calculus and Probability and Statistics [cite: 30]"
+      ]
     }
   ],
+  "awards": [],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Generative AI for LLM",
+      "issuer": "Coursera",
+      "icon": "fa-solid fa-graduation-cap"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Advance Python and SQL for Data Science",
+      "issuer": "Scaler Academy",
+      "icon": "fa-solid fa-code"
     }
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
+  "publications": [],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming",
+      "icon": "fa-solid fa-code",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python [cite: 34]",
+        "R [cite: 34]",
+        "SQL [cite: 34]",
+        "JavaScript [cite: 34]",
+        "C++ [cite: 34]"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "icon": "fa-solid fa-chart-bar",
+      "keywords": [
+        "Scikit Learn [cite: 36]",
+        "Matplotlib [cite: 36]",
+        "Seaborn [cite: 36]",
+        "mlxtend [cite: 36]",
+        "stats [cite: 36]",
+        "Kibana [cite: 36]",
+        "ElasticSearch [cite: 36]"
+      ]
+    },
+    {
+      "name": "Deep Learning & LLMs",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "PyTorch [cite: 40]",
+        "TensorFlow [cite: 40]",
+        "Langchain [cite: 41]",
+        "HuggingFace [cite: 41]"
+      ]
+    },
+    {
+      "name": "Cloud & Big Data",
+      "icon": "fa-solid fa-cloud",
+      "keywords": [
+        "AWS Sagemaker [cite: 42]",
+        "Big Query GCP [cite: 42]",
+        "PySpark [cite: 37]"
+      ]
+    },
+    {
+      "name": "NLP & BI",
+      "icon": "fa-solid fa-tags",
+      "keywords": [
+        "nltk [cite: 39]",
+        "spaCy [cite: 39]",
+        "PowerBI [cite: 38]"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "English",
+      "fluency": "Full Professional Proficiency",
+      "certificates": [
+        {
+          "name": "IELTS Academic",
+          "issuer": "British Council",
+          "date": "2025-09-01",
+          "url": "https://ielts.britishcouncil.org/"
+        }
+      ]
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "language": "Hindi",
+      "fluency": "Native Speaker"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Soft Skills",
+      "icon": "fa-solid fa-people-group",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Agile Framework [cite: 44]",
+        "Scrum Methodology [cite: 45]",
+        "Analytical Skills [cite: 46]",
+        "Presentation Skills [cite: 47]",
+        "Interpersonal Skills [cite: 48]"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Humber College - Information Technology Service (ITS)",
+      "position": "Capstone Project — Curriculum Bot (RAG-LLM)",
+      "startDate": "2024-09-01",
+      "endDate": "2024-12-01",
+      "summary": "Led a five-member team to develop a Retrieval-Augmented Generation (RAG) based chatbot to automate curriculum design research[cite: 12]. Enhanced the retrieval system's effectiveness using multi-stage re-ranking of retrieved content representation (DLM, TDILM, monoT5)[cite: 14].",
+      "highlights": [
+        "Chatbot reduced faculty research and compile time for curriculum design from average 1 hours to 2 minutes with content accuracy of 95%[cite: 16].",
+        "Utilized Agile methodologies for weekly client meetings, requirements gathering, and feature demonstration[cite: 15].",
+        "Tools: Langchain, LlamaIndex, ChromaDB, OpenAI GPT-4, Streamlit, Git and Github, Python, ClickUp[cite: 18]."
+      ]
     }
   ]
 }
